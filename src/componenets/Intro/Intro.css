@@ -1,0 +1,20 @@
+.IntroMain
+{
+    background-color: #1EA3FE;
+    display: flex;
+    flex-direction: row;
+    padding:155px;
+}
+.IntroPart{
+    display: flex;
+    flex-direction: column;
+    padding-right: 50px;
+    background-color: #E8F9FD;
+    border-radius: 5px;
+}
+
+.Introimg{
+    width: 500px;
+    background-color: #1EA3FE;
+
+}

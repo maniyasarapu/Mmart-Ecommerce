@@ -1,0 +1,13 @@
+.frontMain
+{
+    display: flex;
+    flex-direction: column;
+}
+.frontOffers{
+    display: flex;
+    flex-direction: row;
+}
+.frontBrands{
+    display: flex;
+    flex-direction: row;
+}
